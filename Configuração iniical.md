@@ -9,7 +9,7 @@ As configurações realizadas através dos comandos abaixo serão incluídas no 
 ##### Setar email
 	git config --global user.email "evandroarlati@hotmail.com"	
 ##### Setar editor
-	git config --global core.editor vim
+	git config --global core.editor "code --wait"
 ##### Verificar configurações individual
 	git config user.name
 	git config user.email	
