@@ -1,1 +1,0 @@
-# Comandos mais utilizados
